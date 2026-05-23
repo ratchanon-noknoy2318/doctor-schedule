@@ -1,16 +1,22 @@
-<h1 align="left">Service Scheduler</h1>
+<h1 align="center">Doctor Schedule</h1>
 
-![Delivery](https://img.shields.io/badge/Built-3_Service_Schedules-green)
-![Requirements](https://img.shields.io/badge/Source-Nursing_Google_Docs-blue)
-
-<p align="left">
-  <img src="https://res.cloudinary.com/dpa96jvla/image/upload/v1779248938/%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%8B%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD_8_lm3nci.png" width="400"/>
-  <img src="https://res.cloudinary.com/dpa96jvla/image/upload/v1779249069/%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%8B%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD_9_xcryl9.png" width="400"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Framework-Next.js-black" />
+  <img src="https://img.shields.io/badge/Data_Source-Google_Docs-4285F4" />
+  <img src="https://img.shields.io/badge/Styling-CSS_Modules-264DE4" />
 </p>
 
----
+<br>
 
-## Our Services
+## About
+
+Doctor schedule system designed to present clinic service hours across 3 departments in a structured and accessible format.
+
+Built based on a Google Docs schedule designed by nursing staff, aiming to improve clarity and reduce time spent checking doctor availability.
+
+<br>
+
+## Services
 
 | Service | Time |
 |----------|------|
@@ -18,11 +24,23 @@
 | Traditional & Alternative Medicine | 08:30 - 16:30 |
 | Thai & Alternative Medicine | 08:30 - 16:30 |
 
+<br>
+
 ## Tech Stack
 
-- Next.js
-- CSS Modules
-- Google Docs (data source)
+- Next.js  
+- CSS Modules  
+- Google Docs  
+
+<br>
+
+## Impact
+
+- Centralized service schedule information  
+- Reduced manual inquiry and confusion from staff/patients  
+- Improved accessibility of clinic service hours  
+
+<br>
 
 ## Installation
 
@@ -33,5 +51,3 @@ cd hospital-service-schedules-system
 
 npm install
 npm run dev
-```
-
