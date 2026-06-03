@@ -45,9 +45,9 @@ Built based on a Google Docs schedule designed by nursing staff, aiming to impro
 ## Installation
 
 ```bash
-git clone https://github.com/ratchanon-noknoy2318/hospital-service-schedules-system
+git clone https://github.com/ratchanon-noknoy2318/hospital-physician-scheduler.git
 
-cd hospital-service-schedules-system
+cd hospital-physician-scheduler
 
 npm install
 npm run dev
